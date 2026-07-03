@@ -14,7 +14,7 @@ tags: ["Economy","Policy","RBI"]
 
 The global financial system is currently navigating a striking dissonance. While the West Asia conflict has reintroduced a familiar chill of geopolitical anxiety—threatening energy prices and snarling supply chains—financial markets have remained unexpectedly "sanguine." This optimism, fueled by a belief in a technology-led recovery, seems to defy the gravity of a "polycrisis" world defined by successive shocks.
 
-However, the June 2026 Financial Stability Report (FSR) suggests that these shocks haven't vanished; they have merely migrated. While the surface appears stable, a new architecture of hidden vulnerabilities is forming beneath the floorboards. Here are the five most critical takeaways from the report.
+However, the **June 2026 Financial Stability Report (FSR)** suggests that these shocks haven't vanished; they have merely migrated. While the surface appears stable, a new architecture of hidden vulnerabilities is forming beneath the floorboards. Here are the five most critical takeaways from the report.
 
 ## 1. The AI Double-Edged Sword: Concentration and Debt
 
