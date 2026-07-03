@@ -23,6 +23,6 @@ docs/infographics
 node_modules/
 
 # Hugo Local Build Artifacts
-blog/public/
-blog/resources/
-blog/.hugo_build.lock
+public/
+resources/
+.hugo_build.lock
