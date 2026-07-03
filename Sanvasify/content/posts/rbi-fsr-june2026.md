@@ -1,7 +1,7 @@
 ---
 title: "Important Insights from the RBI’s June 2026 Financial Stability Report"
 description: "Explore how the global financial system is navigating geopolitical shocks and an AI-driven boom, with hidden vulnerabilities emerging despite surface-level stability."
-date: 2026-06-30
+date: 2026-07-04
 image: "images/rbi-fsr-june2026.png"
 video: "video/rbi-fsr-june2026.mp4"
 audio: "audio/rbi-fsr-june2026.mp3"
