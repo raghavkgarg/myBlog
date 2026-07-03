@@ -1,0 +1,28 @@
+# macOS system files
+.DS_Store
+dist/
+
+# Scripts (private)
+scripts/Archive/sync_to_icloud.sh
+scripts/Archive/sync_cloudflare.sh
+
+# Docs (private)
+docs/blog.md
+docs/blog_content.md
+docs/infographics
+
+# Environment variables
+.env
+.env.*
+!/.env.example
+
+# Kiro (machine-specific)
+.kiro/
+
+# Deno
+node_modules/
+
+# Hugo Local Build Artifacts
+blog/public/
+blog/resources/
+blog/.hugo_build.lock
