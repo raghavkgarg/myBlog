@@ -12,11 +12,11 @@ if [ -z "$1" ]; then
 fi
 
 SLUG="$1"
-WORKSPACE_DIR="/Users/raghavgarg/Projects/myGo/sanvasify"
-MD_FILE="${WORKSPACE_DIR}/blog/content/posts/${SLUG}.md"
+WORKSPACE_DIR="/Users/raghavgarg/Projects/myBlog/Sanvasify"
+MD_FILE="${WORKSPACE_DIR}/content/posts/${SLUG}.md"
 TEMP_TXT="/Users/raghavgarg/NotOnCloud/${SLUG}.txt"
 TEMP_M4A="/Users/raghavgarg/NotOnCloud/temp_${SLUG}.m4a"
-OUTPUT_MP3="${WORKSPACE_DIR}/blog/assets/audio/${SLUG}.mp3"
+OUTPUT_MP3="${WORKSPACE_DIR}/assets/audio/${SLUG}.mp3"
 
 # Verify that the markdown file exists
 if [ ! -f "$MD_FILE" ]; then

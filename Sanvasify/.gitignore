@@ -3,8 +3,8 @@
 dist/
 
 # Scripts (private)
-scripts/Archive/sync_to_icloud.sh
-scripts/Archive/sync_cloudflare.sh
+scripts/Archive/sync_git.sh
+scripts/Archive/generate_audio.sh
 
 # Docs (private)
 docs/blog.md

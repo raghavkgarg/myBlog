@@ -32,7 +32,7 @@ There has been a fundamental shift in the geography of financial risk. While reg
 
 Operating in an opaque, lightly regulated environment without direct access to central bank liquidity, these "shadow" giants use instruments that can turn a tremor into an earthquake:
 
-* 0DTE Options: High volumes of zero-day-to-expiry options are being used in dynamic hedging strategies that can amplify market moves during stress.
+* 0 DTE Options: High volumes of zero-day-to-expiry options are being used in dynamic hedging strategies that can amplify market moves during stress.
 * Leveraged ETFs: Mechanical rebalancing in these funds is increasingly driving outsized price swings.
 * Private Credit: Now estimated at $1.5 to $2 trillion, this ecosystem is notoriously difficult to map. The report highlights that its "opacity and varying levels of leverage" across jurisdictions make it a black box of interconnectedness.
 
