@@ -76,4 +76,4 @@ The 2026 FSR captures a profound tension between immediate resilience and system
 
 The ultimate question for the tech-savvy investor remains: Is the current AI-driven optimism a fundamental shift in economic productivity, or is it a high-leverage mask for growing fragilities in the bond and shadow banking sectors? The fortress stands for now, but the walls are being tested by a **$13.5 trillion** refinancing reality.
 
-**[<u>Read the Full RBI Report Here<u>](https://www.rbi.org.in/Scripts/PublicationReportDetails.aspx?UrlPage=&ID=1319)**
+**[<u>Read the Full RBI Report Here</u>](https://www.rbi.org.in/Scripts/PublicationReportDetails.aspx?UrlPage=&ID=1319)**
